@@ -1,8 +1,6 @@
-## Oi eu sou Israel Costa👋
+## Hi i am Israel Costa👋
 
-### Sou Aluno da Alura e fiquei fascinado pelo desenvolvimento web, estou cada dia aprendendo e melhorando. Ainda estou no básico, contudo espero logo ter meu priemiro emprego na áerea de Front-end
-
-
+### I am React programmer with skills in JavaScript, HTML, CSS. Student at BYU Pathway.
 <div style="display: inline_block">
 <img align="center" alt="Israel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 <img align="center" alt="Israel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
