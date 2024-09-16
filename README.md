@@ -1,6 +1,6 @@
 ## Hi i am Israel Costa👋
 
-### I am React programmer with skills in JavaScript, HTML, CSS. Student at BYU Pathway.
+### I'm programmer with JavaScript, HTML, CSS and the Framework React. Student at BYU Pathway.
 <div style="display: inline_block">
 <img align="center" alt="Israel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 <img align="center" alt="Israel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
