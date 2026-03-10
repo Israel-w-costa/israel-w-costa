@@ -1,32 +1,97 @@
-# 👋 Hello! Welcome to my GitHub!
+<h1 align="center">Hi 👋, I'm Israel Costa</h1>
 
-I’m passionate about technology and have been studying programming for over a year.  
-Currently, I focus on Front-end development using **React**, **JavaScript**, **HTML**, **CSS**,  
-and API integration.  
-Here you will find my projects, studies, and lots of practice! 🚀
-
----
-
-### 🚀 Technologies I work with
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?color=00BFFF&size=30&center=true&vCenter=true&width=700&lines=Front-End+Developer;React+Developer;TypeScript+%7C+JavaScript;Building+Modern+Web+Applications"/>
 </p>
 
 ---
 
-### 📌 Featured Projects
-👉 **Organo Games** – https://organo-games.vercel.app/  
-👉 **Tech Track** – https://tech-track-midoo419c-israelwcostas-projects.vercel.app/  
-👉 **AstroNova** – https://asrtro-nova.vercel.app/index.html/      
-👉 **F1 Pulse** – https://f1-pulse.vercel.app/carros.html
+## 🚀 About Me
+
+💻 Front-End Developer focused on **React, TypeScript and JavaScript**
+
+🎓 Student of **Analysis and Systems Development**
+
+🚀 Passionate about building modern and interactive web applications
 
 ---
 
-✨ *Always learning, improving, and building new ideas!*
+# 🚀 Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,ts,js,html,css,git,github,vscode" />
+</p>
+
+---
+
+# ⭐ Featured Projects
+
+## 🌍 World Peace Petition
+
+🕊️ A web application where people can sign a petition supporting world peace.
+
+⚙️ Tech: **React • TypeScript • CSS**
+
+🔗 Repository: https://github.com/Israel-w-costa/paz-mundial <br>
+🔗 Live Demo:  https://tech-track-midoo419c-israelwcostas-projects.vercel.app/
+
+![preview](https://github.com/user-attachments/assets/cd06de0e-5844-4b48-ac9c-48713d85c119)
+
+---
+
+## 💻 Tech Track
+
+📊 A web application designed to track technology learning and help developers organize their study progress.
+
+⚙️ Tech: **React • TypeScript • JavaScript • CSS**
+
+<p align="center">
+<img src="COLE_AQUI_A_IMAGEM_DO_PROJETO" width="900"/>
+</p>
+
+🔗 Repository:  https://github.com/Israel-w-costa/tech-track <br>
+🔗 Live Demo: https://vercel.com/israelwcostas-projects/tech-track 
+
+![preview](https://github.com/user-attachments/assets/f55db672-99f8-48dd-ab0a-8357b57815f4)
+
+---
+
+## ⏳ Chronos Pomodoro
+
+🍅 A productivity timer based on the Pomodoro technique to help users stay focused and manage study or work sessions.
+
+⚙️ Tech: **React • JavaScript • CSS**
+
+<p align="center">
+<img src="COLE_AQUI_A_IMAGEM_DO_PROJETO" width="900"/>
+</p>
+
+🔗 Repository:  https://github.com/Israel-w-costa/chromos-pomodoro <br>
+🔗 Live Demo:  https://vercel.com/israelwcostas-projects/chromos-pomodoro
+
+![preview](https://github.com/user-attachments/assets/cf2324e3-d703-4788-89c2-59f944306e7a)
+
+---
+
+# 📚 Currently Learning
+
+✨ Advanced React  
+✨ TypeScript Best Practices  
+✨ Backend Integration  
+
+---
+
+# 🌎 Connect With Me
+
+💼 LinkedIn:  https://www.linkedin.com/in/israelcosta-/
+📧 Email:  israelwendellc@gmail.com
+
+---
+
+# 🐍 Contribution Snake
+
+![snake gif](https://github.com/Israel-w-costa/Israel-w-costa/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+⭐ Thanks for visiting my GitHub profile!
