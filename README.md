@@ -16,14 +16,6 @@
 
 ---
 
-# 🚀 Tech Stack
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=react,ts,js,html,css,git,github,vscode" />
-</p>
-
----
-
 # ⭐ Featured Projects
 
 ## 🌍 World Peace Petition
@@ -83,7 +75,7 @@
 
 # 🌎 Connect With Me
 
-💼 LinkedIn:  https://www.linkedin.com/in/israelcosta-/
+💼 LinkedIn:  https://www.linkedin.com/in/israelcosta-/ <br>
 📧 Email:  israelwendellc@gmail.com
 
 ---
